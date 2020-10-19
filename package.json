@@ -1,0 +1,18 @@
+{
+  "name": "spectral-norm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^14.11.10"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "compile": "tsc",
+    "test": "node index.js 5500"
+  },
+  "author": "Tim Hutt <tdhutt@gmail.com>",
+  "license": "PUBLIC DOMAIN"
+}
